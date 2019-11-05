@@ -1,4 +1,4 @@
-package mediator.product;
+package factoryMethod.product;
 
 /**
  * Created by DEll on 2019-11-4.

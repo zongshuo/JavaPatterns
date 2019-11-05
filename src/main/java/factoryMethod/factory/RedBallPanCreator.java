@@ -1,7 +1,7 @@
-package mediator.factory;
+package factoryMethod.factory;
 
-import mediator.product.PanCoreProduct;
-import mediator.product.RedPanCoreConcreteProduct;
+import factoryMethod.product.PanCoreProduct;
+import factoryMethod.product.RedPanCoreConcreteProduct;
 
 /**
  * Created by DEll on 2019-11-4.

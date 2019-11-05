@@ -1,10 +1,10 @@
-package mediator;
+package factoryMethod;
 
-import mediator.factory.BallPanCreator;
-import mediator.factory.BlackBallPanCreator;
-import mediator.factory.BlueBallPanCreator;
-import mediator.factory.RedBallPanCreator;
-import mediator.product.PanCoreProduct;
+import factoryMethod.factory.BallPanCreator;
+import factoryMethod.factory.BlackBallPanCreator;
+import factoryMethod.factory.BlueBallPanCreator;
+import factoryMethod.factory.RedBallPanCreator;
+import factoryMethod.product.PanCoreProduct;
 
 /**
  * Created by DEll on 2019-11-4.
