@@ -1,4 +1,4 @@
-package prototype;
+package singleton;
 
 /**
  * Created by DEll on 2019-11-3.

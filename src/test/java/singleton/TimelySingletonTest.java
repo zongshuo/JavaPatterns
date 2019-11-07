@@ -1,9 +1,7 @@
-package prototype;
+package singleton;
 
 import org.junit.Assert;
 import org.junit.Test;
-
-import static org.junit.Assert.*;
 
 /**
  * Created by DEll on 2019-11-3.
